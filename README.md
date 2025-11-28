@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ArsenBanner.png" width="1000" alt="Arsen Autoclicker Banner"/>
+  <img src="ArsenBanner.png" width="1000" alt="Arsen Autoclicker & Macro Banner"/>
 </p>
 
 <h1 align="center">Arsen Autoclicker</h1>
