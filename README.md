@@ -1,4 +1,4 @@
-# ⚡ Arsen Clicker & Macro - v2.0.0
+<p align="center"> # ⚡ Arsen Clicker & Macro - v2.0.0 </p>
 <p align="center">
   <img src="https://trendshift.io/api/badge/repositories/14726" width="260" alt="Trendshift Badge"/>
 </p>
@@ -68,7 +68,8 @@ Portable build.
 
 ## 🛠 Requirements
 
-- Windows 10 or Windows 11  
+- Windows 10 or Windows 11
+- No administrative privileges required
 
 ---
 
